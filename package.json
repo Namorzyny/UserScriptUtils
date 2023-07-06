@@ -1,0 +1,9 @@
+{
+  "name": "user-script-utils",
+  "version": "0.1.0",
+  "description": "Utilites of UserScripts",
+  "main": "index.js",
+  "repository": "https://github.com/Namorzyny/UserSscriptUtils",
+  "author": "Namorzyny",
+  "license": "GPL-3.0"
+}
